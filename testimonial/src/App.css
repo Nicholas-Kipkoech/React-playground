@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  /* border:1px solid green; */
+  padding: 20px;
+  border-radius: 10px;
+  margin: 50px;
+  background-color:whitesmoke;
+  justify-content: center;
+  
+
+}
+
+.container {
+  background-position: initial;
+  background-color: rgb(28, 107, 107);
+  color: whitesmoke;
+}
+
+.User-names {
+  
+  padding-left: 10px;
+  color: rgb(253, 253, 253);
+  font-size: 30px;
+  
+
+}
+
+.testimonials {
+  border: 2px solid dodgerblue;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  
+}
+
+.message {
+  align-items:center;
+  font-size:20px;
+  box-sizing: border-box;
+  padding-left: 10px;
+ 
+  
+  justify-content:center;
+}
+
+.image {
+  border-radius: 50px;
+}
+.audio{
+  flex-shrink: 1;
+}
+.testimonial-header{
+  padding-left: 50%;
+  font-size: 40px;
+  justify-content: center;
+  color: rgb(21, 171, 252)
+}
